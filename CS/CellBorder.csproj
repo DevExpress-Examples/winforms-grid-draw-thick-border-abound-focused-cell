@@ -83,35 +83,35 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Pdf.v14.1.Core">
-      <Name>DevExpress.Pdf.v14.1.Core</Name>
+    <Reference Include="DevExpress.Pdf.v15.1.Core">
+      <Name>DevExpress.Pdf.v15.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Office.v14.1.Core">
-      <Name>DevExpress.Office.v14.1.Core</Name>
+    <Reference Include="DevExpress.Office.v15.1.Core">
+      <Name>DevExpress.Office.v15.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.1.Core">
-      <Name>DevExpress.RichEdit.v14.1.Core</Name>
+    <Reference Include="DevExpress.RichEdit.v15.1.Core">
+      <Name>DevExpress.RichEdit.v15.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.1.Export">
-      <Name>DevExpress.RichEdit.v14.1.Export</Name>
+    <Reference Include="DevExpress.RichEdit.v15.1.Export">
+      <Name>DevExpress.RichEdit.v15.1.Export</Name>
     </Reference>
-    <Reference Include="DevExpress.Printing.v14.1.Core">
-      <Name>DevExpress.Printing.v14.1.Core</Name>
+    <Reference Include="DevExpress.Printing.v15.1.Core">
+      <Name>DevExpress.Printing.v15.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Data.v14.1">
-      <Name>DevExpress.Data.v14.1</Name>
+    <Reference Include="DevExpress.Data.v15.1">
+      <Name>DevExpress.Data.v15.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v14.1">
-      <Name>DevExpress.Utils.v14.1</Name>
+    <Reference Include="DevExpress.Utils.v15.1">
+      <Name>DevExpress.Utils.v15.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v14.1">
-      <Name>DevExpress.XtraEditors.v14.1</Name>
+    <Reference Include="DevExpress.XtraEditors.v15.1">
+      <Name>DevExpress.XtraEditors.v15.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v14.1">
-      <Name>DevExpress.XtraPrinting.v14.1</Name>
+    <Reference Include="DevExpress.XtraPrinting.v15.1">
+      <Name>DevExpress.XtraPrinting.v15.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v14.1">
-      <Name>DevExpress.XtraGrid.v14.1</Name>
+    <Reference Include="DevExpress.XtraGrid.v15.1">
+      <Name>DevExpress.XtraGrid.v15.1</Name>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
