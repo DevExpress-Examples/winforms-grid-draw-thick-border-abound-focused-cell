@@ -11,13 +11,12 @@
 # How to draw thick cell borders by handling the CustomDrawCell event
 
 
-<p>This is a sample project for <a href="https://www.devexpress.com/Support/Center/p/A1018">How to draw a thick border for a grid cell</a> Knowledge Base article.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E514">How to draw thick cell borders via a custom XPaint class</a></p>
+<p>This is a sample project for <a href="https://www.devexpress.com/Support/Center/p/A1018">How to draw a thick border for a grid cell</a> Knowledge Base article.</p>
+<p><strong>See Also:</strong><br />
+<a href="https://www.devexpress.com/Support/Center/p/e2732">How to draw thick cell borders by handling the Paint event</a><br/> 
+<a href="https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx">DevExpress WinForms Troubleshooting - Grid Control</a>
+</p>
 
-<b>See also:</b>
 
-[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
-
-<br/>
 
 
