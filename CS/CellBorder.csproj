@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
@@ -7,10 +7,13 @@
     <ProjectGuid>{12CB3F53-A22C-4776-BC01-73080111095D}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ApplicationIcon></ApplicationIcon>
-    <AssemblyKeyContainerName></AssemblyKeyContainerName>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
     <AssemblyName>CellBorder</AssemblyName>
-    <AssemblyOriginatorKeyFile></AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
     <DefaultClientScript>JScript</DefaultClientScript>
     <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
     <DefaultTargetSchema>IE50</DefaultTargetSchema>
@@ -18,10 +21,13 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>CellBorder</RootNamespace>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
-    <StartupObject></StartupObject>
-    <FileUpgradeFlags></FileUpgradeFlags>
-    <UpgradeBackupLocation></UpgradeBackupLocation>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <OldToolsVersion>2.0</OldToolsVersion>
     <TargetFrameworkProfile />
     <PublishUrl>publish\</PublishUrl>
@@ -45,13 +51,16 @@
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
     <BaseAddress>285212672</BaseAddress>
     <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
-    <ConfigurationOverrideFile></ConfigurationOverrideFile>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <DocumentationFile></DocumentationFile>
+    <DocumentationFile>
+    </DocumentationFile>
     <DebugSymbols>true</DebugSymbols>
     <FileAlignment>4096</FileAlignment>
     <NoStdLib>false</NoStdLib>
-    <NoWarn></NoWarn>
+    <NoWarn>
+    </NoWarn>
     <Optimize>false</Optimize>
     <RegisterForComInterop>false</RegisterForComInterop>
     <RemoveIntegerChecks>false</RemoveIntegerChecks>
@@ -66,13 +75,16 @@
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
     <BaseAddress>285212672</BaseAddress>
     <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
-    <ConfigurationOverrideFile></ConfigurationOverrideFile>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
     <DefineConstants>TRACE</DefineConstants>
-    <DocumentationFile></DocumentationFile>
+    <DocumentationFile>
+    </DocumentationFile>
     <DebugSymbols>false</DebugSymbols>
     <FileAlignment>4096</FileAlignment>
     <NoStdLib>false</NoStdLib>
-    <NoWarn></NoWarn>
+    <NoWarn>
+    </NoWarn>
     <Optimize>true</Optimize>
     <RegisterForComInterop>false</RegisterForComInterop>
     <RemoveIntegerChecks>false</RemoveIntegerChecks>
@@ -83,35 +95,42 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Pdf.v14.1.Core">
-      <Name>DevExpress.Pdf.v14.1.Core</Name>
+    <Reference Include="DevExpress.Pdf.v23.1.Core">
+      <Name>DevExpress.Pdf.v23.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Office.v14.1.Core">
-      <Name>DevExpress.Office.v14.1.Core</Name>
+    <Reference Include="DevExpress.Office.v23.1.Core">
+      <Name>DevExpress.Office.v23.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.1.Core">
-      <Name>DevExpress.RichEdit.v14.1.Core</Name>
+    <Reference Include="DevExpress.RichEdit.v23.1.Core">
+      <Name>DevExpress.RichEdit.v23.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v14.1.Export">
-      <Name>DevExpress.RichEdit.v14.1.Export</Name>
+    <Reference Include="DevExpress.RichEdit.v23.1.Export">
+      <Name>DevExpress.RichEdit.v23.1.Export</Name>
     </Reference>
-    <Reference Include="DevExpress.Printing.v14.1.Core">
-      <Name>DevExpress.Printing.v14.1.Core</Name>
+    <Reference Include="DevExpress.Printing.v23.1.Core">
+      <Name>DevExpress.Printing.v23.1.Core</Name>
     </Reference>
-    <Reference Include="DevExpress.Data.v14.1">
-      <Name>DevExpress.Data.v14.1</Name>
+    <Reference Include="DevExpress.Drawing.v23.1">
+      <Name>DevExpress.Drawing.v23.1</Name>
     </Reference>
-    <Reference Include="DevExpress.Utils.v14.1">
-      <Name>DevExpress.Utils.v14.1</Name>
+    <Reference Include="DevExpress.Data.v23.1">
+      <Name>DevExpress.Data.v23.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v14.1">
-      <Name>DevExpress.XtraEditors.v14.1</Name>
+    <Reference Include="DevExpress.Data.Desktop.v23.1">
+      <Name>DevExpress.Data.Desktop.v23.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v14.1">
-      <Name>DevExpress.XtraPrinting.v14.1</Name>
+    <Reference Include="DevExpress.Utils.v23.1">
+      <Name>DevExpress.Utils.v23.1</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v14.1">
-      <Name>DevExpress.XtraGrid.v14.1</Name>
+    <Reference Include="DevExpress.XtraBars.v23.1, Version=23.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.1">
+      <Name>DevExpress.XtraEditors.v23.1</Name>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v23.1">
+      <Name>DevExpress.XtraPrinting.v23.1</Name>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v23.1">
+      <Name>DevExpress.XtraGrid.v23.1</Name>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
@@ -136,10 +155,15 @@
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -158,7 +182,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent></PreBuildEvent>
-    <PostBuildEvent></PostBuildEvent>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
   </PropertyGroup>
 </Project>
