@@ -6,7 +6,7 @@
 
 # WinForms Data Grid - Draw a thick border around the focused cell (CustomDrawCell event)
 
-This example handles the [CustomDrawCell](docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawCell) event to paint a thick border around the focused cell.
+This example handles the [CustomDrawCell](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawCell) event to paint a thick border around the focused cell.
 
 ```csharp
 private void gridView1_CustomDrawCell(object sender, DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventArgs e) {
