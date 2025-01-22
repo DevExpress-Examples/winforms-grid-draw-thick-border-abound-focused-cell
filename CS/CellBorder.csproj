@@ -110,7 +110,7 @@
     <Reference Include="DevExpress.Utils.v24.2">
       <Name>DevExpress.Utils.v24.2</Name>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v24.2, Version=24.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v24.2, Version=24.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraEditors.v24.2">
       <Name>DevExpress.XtraEditors.v24.2</Name>
     </Reference>
